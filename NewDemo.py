@@ -11,6 +11,12 @@ try:
     data = {'Account':'18306821670', 'Password':'123456789'}
     connect.request('POST', '/users/login', body=json.dumps(data), headers=headers)
     accessToken = json.loads(connect.getresponse().read().decode())['ResultObj']['AccessToken']
+    """
+    loads方法：将JSON字符串转换成Python对象
+    getresponse方法：用于获取HTTP相应
+    read方法：用于从HTTP相应中获取字节流数据
+    decode方法：将其read方法获取到的字节流数据解码成字符串
+    """
     print('AccessToken:'+accessToken)
     connect.close()
 except Exception as e:

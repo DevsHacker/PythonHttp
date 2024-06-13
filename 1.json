@@ -1,220 +1,187 @@
 {
     "ResultObj": {
-        "PageCount": 31,
+        "PageCount": 4,
         "PageIndex": 1,
-        "RecordCount": 1523,
+        "RecordCount": 155,
         "Count": 50,
-        "DeviceId": 147460,
+        "DeviceId": 147464,
         "DataPoints": [
             {
-                "ApiTag": "m_temp",
+                "ApiTag": "m_limit",
                 "PointDTO": [
                     {
-                        "Value": "16.5387",
-                        "RecordTime": "2024-05-31 10:06:04"
+                        "Value": 0,
+                        "RecordTime": "2024-06-11 19:19:57"
                     },
                     {
-                        "Value": "16.6875",
-                        "RecordTime": "2024-05-31 10:05:59"
+                        "Value": 0,
+                        "RecordTime": "2024-06-11 16:30:09"
                     },
                     {
-                        "Value": "17.125",
-                        "RecordTime": "2024-05-31 10:05:55"
+                        "Value": 0,
+                        "RecordTime": "2024-06-11 16:30:04"
                     },
                     {
-                        "Value": "17.0506",
-                        "RecordTime": "2024-05-31 10:05:50"
+                        "Value": 0,
+                        "RecordTime": "2024-06-11 16:29:58"
                     },
                     {
-                        "Value": "17.3044",
-                        "RecordTime": "2024-05-31 10:05:46"
+                        "Value": 0,
+                        "RecordTime": "2024-06-11 16:29:53"
                     },
                     {
-                        "Value": "16.6131",
-                        "RecordTime": "2024-05-31 10:05:41"
+                        "Value": 0,
+                        "RecordTime": "2024-06-11 16:29:51"
                     },
                     {
-                        "Value": "17.0856",
-                        "RecordTime": "2024-05-31 10:05:37"
+                        "Value": 0,
+                        "RecordTime": "2024-06-11 16:25:45"
                     },
                     {
-                        "Value": "17.4137",
-                        "RecordTime": "2024-05-31 10:05:32"
+                        "Value": 0,
+                        "RecordTime": "2024-06-11 16:25:40"
                     },
                     {
-                        "Value": "17.8162",
-                        "RecordTime": "2024-05-31 10:05:28"
+                        "Value": 0,
+                        "RecordTime": "2024-06-11 16:25:34"
                     },
                     {
-                        "Value": "17.0506",
-                        "RecordTime": "2024-05-31 10:05:23"
+                        "Value": 0,
+                        "RecordTime": "2024-06-11 16:25:29"
                     },
                     {
-                        "Value": "17.5975",
-                        "RecordTime": "2024-05-31 10:05:19"
+                        "Value": 0,
+                        "RecordTime": "2024-06-11 16:25:23"
                     },
                     {
-                        "Value": "16.8319",
-                        "RecordTime": "2024-05-31 10:05:14"
+                        "Value": 0,
+                        "RecordTime": "2024-06-11 16:25:18"
                     },
                     {
-                        "Value": "17.0856",
-                        "RecordTime": "2024-05-31 10:05:10"
+                        "Value": 0,
+                        "RecordTime": "2024-06-11 16:25:12"
                     },
                     {
-                        "Value": "17.3438",
-                        "RecordTime": "2024-05-31 10:05:05"
+                        "Value": 0,
+                        "RecordTime": "2024-06-11 16:25:07"
                     },
                     {
-                        "Value": "17.3044",
-                        "RecordTime": "2024-05-31 10:05:01"
+                        "Value": 0,
+                        "RecordTime": "2024-06-11 16:25:04"
                     },
                     {
-                        "Value": "17.7069",
-                        "RecordTime": "2024-05-31 10:04:56"
+                        "Value": 0,
+                        "RecordTime": "2024-06-11 15:51:01"
                     },
                     {
-                        "Value": "17.7419",
-                        "RecordTime": "2024-05-31 10:04:52"
+                        "Value": 0,
+                        "RecordTime": "2024-06-11 15:50:55"
                     },
                     {
-                        "Value": "16.8669",
-                        "RecordTime": "2024-05-31 10:04:47"
+                        "Value": 0,
+                        "RecordTime": "2024-06-11 15:50:50"
                     },
                     {
-                        "Value": "17.125",
-                        "RecordTime": "2024-05-31 10:04:43"
+                        "Value": 0,
+                        "RecordTime": "2024-06-11 15:50:44"
                     },
                     {
-                        "Value": "16.6875",
-                        "RecordTime": "2024-05-31 10:04:38"
+                        "Value": 0,
+                        "RecordTime": "2024-06-11 15:50:39"
                     },
                     {
-                        "Value": "16.7225",
-                        "RecordTime": "2024-05-31 10:04:34"
+                        "Value": 0,
+                        "RecordTime": "2024-06-11 15:50:33"
                     },
                     {
-                        "Value": "16.9762",
-                        "RecordTime": "2024-05-31 10:04:29"
+                        "Value": 0,
+                        "RecordTime": "2024-06-11 15:50:28"
                     },
                     {
-                        "Value": "16.3594",
-                        "RecordTime": "2024-05-31 10:04:25"
+                        "Value": 0,
+                        "RecordTime": "2024-06-11 15:50:22"
                     },
                     {
-                        "Value": "16.5781",
-                        "RecordTime": "2024-05-31 10:04:20"
+                        "Value": 0,
+                        "RecordTime": "2024-06-11 15:50:17"
                     },
                     {
-                        "Value": "17.16",
-                        "RecordTime": "2024-05-31 10:04:16"
+                        "Value": 0,
+                        "RecordTime": "2024-06-11 15:50:11"
                     },
                     {
-                        "Value": "18.5819",
-                        "RecordTime": "2024-05-31 10:04:11"
+                        "Value": 0,
+                        "RecordTime": "2024-06-11 15:50:06"
                     },
                     {
-                        "Value": "17.7812",
-                        "RecordTime": "2024-05-31 10:04:07"
+                        "Value": 0,
+                        "RecordTime": "2024-06-11 15:50:00"
                     },
                     {
-                        "Value": "17.8162",
-                        "RecordTime": "2024-05-31 10:04:02"
+                        "Value": 0,
+                        "RecordTime": "2024-06-11 15:49:55"
                     },
                     {
-                        "Value": "17.6719",
-                        "RecordTime": "2024-05-31 10:03:58"
+                        "Value": 0,
+                        "RecordTime": "2024-06-11 15:49:49"
                     },
                     {
-                        "Value": "18.1444",
-                        "RecordTime": "2024-05-31 10:03:53"
+                        "Value": 0,
+                        "RecordTime": "2024-06-11 15:49:44"
                     },
                     {
-                        "Value": "17.8512",
-                        "RecordTime": "2024-05-31 10:03:49"
+                        "Value": 0,
+                        "RecordTime": "2024-06-11 15:49:38"
                     },
                     {
-                        "Value": "17.5975",
-                        "RecordTime": "2024-05-31 10:03:44"
+                        "Value": 0,
+                        "RecordTime": "2024-06-11 15:49:33"
                     },
                     {
-                        "Value": 18,
-                        "RecordTime": "2024-05-31 10:03:40"
+                        "Value": 0,
+                        "RecordTime": "2024-06-11 15:49:27"
                     },
                     {
-                        "Value": "17.4531",
-                        "RecordTime": "2024-05-31 10:03:35"
+                        "Value": 0,
+                        "RecordTime": "2024-06-11 15:49:22"
                     },
                     {
-                        "Value": "18.07",
-                        "RecordTime": "2024-05-31 10:03:31"
+                        "Value": 0,
+                        "RecordTime": "2024-06-11 15:49:16"
                     },
                     {
-                        "Value": "18.035",
-                        "RecordTime": "2024-05-31 10:03:26"
+                        "Value": 0,
+                        "RecordTime": "2024-06-11 15:49:ime": "2024-06-11 15:49:11"
                     },
                     {
-                        "Value": "17.195",
-                        "RecordTime": "2024-05-31 10:03:22"
+                        "Value": 0,
+                        "RecordTime": "2024-06-11 15:49:05"
                     },
                     {
-                        "Value": "17.3787",
-                        "RecordTime": "2024-05-31 10:03:17"
+                        "Value": 0,
+                        "RecordTime": "2024-06-11 15:49:00"
                     },
                     {
-                        "Value": "17.7812",
-                        "RecordTime": "2024-05-31 10:03:13"
+                        "Value": 0,
+                        "RecordTime": "2024-06-11 15:48:54"
                     },
                     {
-                        "Value": "17.8512",
-                        "RecordTime": "2024-05-31 10:03:08"
+                        "Value": 0,
+                        1 15: 48: 49"}, {"Value": "RecordTime": "2024-06-11 15:48:49"
                     },
                     {
-                        "Value": "16.9762",
-                        "RecordTime": "2024-05-31 10:03:04"
+                        "Value": 0,
+                        "RecordTime": "2024-06-11 15:48:43"
                     },
                     {
-                        "Value": "17.7419",
-                        "RecordTime": "2024-05-31 10:02:59"
+                        "Value": 0,
+                        "RecordTime": "2024-06-11 15:48:38"
                     },
                     {
-                        "Value": "16.9762",
-                        "RecordTime": "2024-05-31 10:02:55"
+                        "Value": 0,
+                        "RecordTime": "2024-06-11 15:48:32"
                     },
                     {
-                        "Value": "16.8319",
-                        "RecordTime": "2024-05-31 10:02:50"
-                    },
-                    {
-                        "Value": "17.4137",
-                        "RecordTime": "2024-05-31 10:02:46"
-                    },
-                    {
-                        "Value": "17.195",
-                        "RecordTime": "2024-05-31 10:02:41"
-                    },
-                    {
-                        "Value": "17.0506",
-                        "RecordTime": "2024-05-31 10:02:37"
-                    },
-                    {
-                        "Value": "17.5975",
-                        "RecordTime": "2024-05-31 10:02:32"
-                    },
-                    {
-                        "Value": "17.5231",
-                        "RecordTime": "2024-05-31 10:02:28"
-                    },
-                    {
-                        "Value": "16.7225",
-                        "RecordTime": "2024-05-31 10:02:23"
-                    }
-                ]
-            }
-        ]
-    },
-    "Status": 0,
-    "StatusCode": 0,
-    "Msg": None,
-    "ErrorObj": None
-}
+                        "ValValue": 0,
+                        "RecordTime":ue": 0, 
+                        "RecordTime": "2024-06-11 15: 48: 27"}, {"Value": 0, "RecordTime": "2024-06-11 15: 48: 21"}, {"Value": 0, "RecordTime": "2024-06-11 15: 48: 16"}, {"Value": 0, "RecordTime": "2024-06-11 15: 48: 10"rdTime": "2024-06-11 15:}, {"Value": 0, "RecordTime": "2024-06-11 15: 48: 05"}, {"Value": 0, "RecordTime": "2024-06-11 15: 47: 59"}, {"Value": 0, "RecordTime": "2024-06-11 15: 47: 54"}]}]}, "Status": 0, "StatusCode": 0, "Msg": None, "ErrorObj": None}
